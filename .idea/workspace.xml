@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8470168-157c-4d2b-bda4-a4e6cad5f587" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/inheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/overloadride/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/thissuper/superMethod/SuperMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/thissuper/superOnly/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/thissuper/thisMethod/ThisMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/thissuper/thisOnly/This.java" afterDir="false" />
+    <list default="true" id="d8470168-157c-4d2b-bda4-a4e6cad5f587" name="Default Changelist" comment="new exercise">
       <change beforePath="$PROJECT_DIR$/src/dev/paulpalac/exercises/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/paulpalac/exercises/BankAccount.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -87,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/overloadride/Burger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="38" column="90" selection-start-line="38" selection-start-column="90" selection-end-line="38" selection-end-column="90" />
+            <state relative-caret-position="188">
+              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#134#135#0" expanded="true" />
@@ -115,6 +106,8 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -175,6 +168,19 @@
               <item name="CodingExercises" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CodingExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paulpalac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodingExercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodingExercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paulpalac" type="462c0819:PsiDirectoryNode" />
+              <item name="ooptutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -183,7 +189,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535792012756" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535793262356" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -326,6 +332,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4982699" visible="true" weight="0.23600605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -337,14 +344,14 @@
       <window_info id="Favorites" order="7" sideWeight="0.5017301" side_tool="true" weight="0.15555556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3065574" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3065574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.30983606" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3065574" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.30327868" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -580,8 +587,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dev/paulpalac/ooptutorial/overloadride/Burger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="38" column="90" selection-start-line="38" selection-start-column="90" selection-end-line="38" selection-end-column="90" />
+        <state relative-caret-position="188">
+          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#134#135#0" expanded="true" />
