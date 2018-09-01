@@ -21,15 +21,15 @@ public class BankAccount {
         System.out.println(acc.getEmail());
         System.out.println(acc.getPhoneNumber());
 
-        /*BankAccount a = new BankAccount();
+        BankAccount a = new BankAccount();
         System.out.println(a.getAccountNumber());
         System.out.println(a.getCustomerName());
         System.out.println(a.getEmail());
-        System.out.println(a.getPhoneNumber());*/
+        System.out.println(a.getPhoneNumber());
 
     }
 
-    public BankAccount(){
+    private BankAccount(){
         this("NO NAME", "NO EMAIL", "NO PHONE",
                 1000000L, 0);
         System.out.println("No new account made.");
