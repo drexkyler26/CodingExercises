@@ -1,4 +1,4 @@
-package dev.paulpalac.ooptutorial.inheritance;
+package dev.paulpalac.ooptutorial.inheritance.animals;
 
 public class Main {
 
